@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/Users/cameronteasdale/Documents/notes/1805A/assignments/assignment3'
+let g:netrw_dirhist_8='/Users/cameronteasdale/Documents/notes/coursera_machine_learning/linear_algebra.csv'
+let g:netrw_dirhist_7='/Users/cameronteasdale/Documents/misc/projects/handshake/handshake/screens'
+let g:netrw_dirhist_6='/Users/cameronteasdale/.config/nvim'
+let g:netrw_dirhist_5='/Users/cameronteasdale/Documents/notes/dev/assignment/shpotify/Schpotify/auth_server'
+let g:netrw_dirhist_4='/Users/cameronteasdale/Documents/notes/dev/assignment/shpotify/Schpotify/.git'
+let g:netrw_dirhist_3='/Users/cameronteasdale/Documents/notes/dev/assignment/shpotify/Schpotify/spotify-auth-cli/bin'
+let g:netrw_dirhist_2='/Users/cameronteasdale/Documents/notes/dev/assignment/shpotify/Schpotify/spotify-auth-cli/node_modules'
+let g:netrw_dirhist_1='/Users/cameronteasdale/Documents/notes/1805A/assignments/assignment3'
+let g:netrw_dirhist_0='/Users/cameronteasdale/Documents/notes/dev/assignment/dev-oopsie-crazy-camteasdale143/lib/mixins'
